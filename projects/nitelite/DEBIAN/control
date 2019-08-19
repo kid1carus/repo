@@ -1,0 +1,9 @@
+Package: us.kid1car.nitelite
+Name: nitelite
+Depends: firmware (>= 11.0), mobilesubstrate
+Version: 4.5-beta
+Architecture: iphoneos-arm
+Description: A beautiful & soothing dimly lit "dusk" theme for your iOS device.
+Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
+Author: kid1carus <ios.dev@kid1car.us>
+Section: Themes

@@ -1,0 +1,15 @@
+Package: us.kid1car.nitelite
+Version: 4.5-beta
+Architecture: iphoneos-arm
+Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/us.kid1car.nitelite_4.5-beta_iphoneos-arm.deb
+Size: 33701168
+MD5sum: 2fe01090659d7306cf12e8780b3e5582
+SHA1: b7d38fb69b6718cca4da3900a98541b1890ce88f
+SHA256: 0d053b4b3e157700a8c67c6ed1f82b1bc5861b2e0ec7db85e721a87a49eabcb4
+Section: Themes
+Description: A beautiful & soothing dimly lit "dusk" theme for your iOS device.
+Author: kid1carus <ios.dev@kid1car.us>
+Name: nitelite
+

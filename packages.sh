@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/nitelite debs
+dpkg-deb -bZgzip projects/white1ite debs

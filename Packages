@@ -1,15 +1,15 @@
-Package: us.kid1car.nitelite
-Version: 4.5-beta
+Package: us.kid1car.white1ite
+Version: 1.0-Beta2
 Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/us.kid1car.nitelite_4.5-beta_iphoneos-arm.deb
-Size: 30638944
-MD5sum: 3c223405a8b9bb6023359fb951d2c04a
-SHA1: dcf79c9895253b0462b3e45b843497bdd2d2d30e
-SHA256: 11b86fa0c2bdbc7a69b5ad76503e418eabefaf313540b08ac1a0611b8ab1680c
+Filename: ./debs/us.kid1car.white1ite_1.0-Beta2_iphoneos-arm.deb
+Size: 31337662
+MD5sum: c182652ef6ccd5a0bdbcea9295b40793
+SHA1: 284ba6a6755a5b6b8cde7fc1113600dc9cb6e317
+SHA256: 9a24d3ee61f663035011e48374fd6fd4b6125c7d08adb95766dc9aa6dcd538d1
 Section: Themes
-Description: A beautiful & soothing dimly lit "dusk" theme for your iOS device.
+Description: A beautifully detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <ios.dev@kid1car.us>
-Name: nitelite
+Name: white1ite
 

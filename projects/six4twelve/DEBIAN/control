@@ -1,0 +1,12 @@
+Author: kid1carus <iOS.dev@kid1car.us>
+Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
+Name: six4twelve
+Package: us.kid1car.six4twelve
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Themes
+Version: 2.0-beta
+Architecture: iphoneos-arm
+Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
+Depiction:
+Homepage: http://kid1car.us/repo/themes
+dev: kid1carus

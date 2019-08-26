@@ -1,3 +1,20 @@
+Package: us.kid1car.six4twelve
+Version: 2.0-beta
+Architecture: iphoneos-arm
+Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/us.kid1car.six4twelve_2.0-beta_iphoneos-arm.deb
+Size: 15028208
+MD5sum: 099a49f610b5fa6fc960682562cad2d3
+SHA1: 808bb659c518455af07eb499cfae0ea2bd442594
+SHA256: eeba695b2f1a9f65368391b9762183ce1cd3c7faa25aaf62063862379ed868d7
+Section: Themes
+Homepage: http://kid1car.us/repo/themes
+Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
+Author: kid1carus <iOS.dev@kid1car.us>
+Dev: kid1carus
+Name: six4twelve
+
 Package: us.kid1car.unnamed
 Version: 1.0-Beta
 Architecture: iphoneos-arm
@@ -5,9 +22,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.0-Beta_iphoneos-arm.deb
 Size: 1238018
-MD5sum: fc95f29a2b72864edb5eedd7edb0deb4
-SHA1: f3095c0f0f31b0d0e666d0333a55906c6bd20c99
-SHA256: f967e29db08395d2ecf6b736d1c558fc0c4ff0b1e98928d1c22e938f4f5ab9bc
+MD5sum: 28544ed10555bd8c3e052837dd0f5779
+SHA1: 5aba8eec168fb8148286ad918a07585ee1f37f85
+SHA256: eb388924ff01a5903f796a75d0c1af9ca9f69fc66206fee36348606978bc6863
 Section: Themes
 Description: A semi-transparent theme providing  a window into your iOS device.
 Author: kid1carus <ios.dev@kid1car.us>
@@ -20,9 +37,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_1.0-Beta2_iphoneos-arm.deb
 Size: 36551850
-MD5sum: 561391a68a75856fbf9a2a844506dd5d
-SHA1: 0cbcfebdce218d4a98146d1346ffaf5160555908
-SHA256: a8dc9d5162c5d666890df81a5ad9e1dd897fd560cd9a8e8e0d958a5897873b40
+MD5sum: 69f3dd1b180831ac56a7f38b2b9bc7f1
+SHA1: 1c9c97e836346ea10faabf9e3481fe36464077b4
+SHA256: 1598f2b11fa8820dd263d81269a02f4ab58f462398a5ca8c8145f09519a4ce5a
 Section: Themes
 Description: A beautifully detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <ios.dev@kid1car.us>

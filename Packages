@@ -5,9 +5,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_1.0-Beta2_iphoneos-arm.deb
 Size: 34872552
-MD5sum: 9e7a1b72f0e8dd2d0b299061e084421d
-SHA1: 58342dae685c9a56153d54ec99ee7aa9717b27ce
-SHA256: 0de9655ad6e913bc113e991cff592e9b71c2cc009888dcfc079f6d79385bc82d
+MD5sum: b554283322e5103487202fb16099b808
+SHA1: c59264dd6d705768467c69343c1e0160a306d238
+SHA256: 1792570a6cff65cc4f9bb54120060b37ad94f5bbe3aa5805315273c801eb28ab
 Section: Themes
 Description: A beautifully detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <ios.dev@kid1car.us>

@@ -6,4 +6,4 @@ Depends: firmware (>= 11.0), mobilesubstrate
 Section: Themes
 Version: 1.0-Beta
 Architecture: iphoneos-arm
-Description: A 'semi-transparent' theme providing  a 'window' into your iOS device.
+Description: A semi-transparent theme providing  a window into your iOS device.

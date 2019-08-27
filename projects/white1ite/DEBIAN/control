@@ -1,9 +1,9 @@
-Author: kid1carus <ios.dev@kid1car.us>
+Author: kid1carus <d3sign@kid1car.us>
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Name: white1ite
 Package: us.kid1car.white1ite
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Themes
-Version: 1.0-Beta2
+Version: 1.01
 Architecture: iphoneos-arm
 Description: A beautifully detailed white light-mode theme for your iOS device, brought to you by kid1carus.

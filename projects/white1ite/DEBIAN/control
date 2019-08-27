@@ -4,6 +4,6 @@ Name: white1ite
 Package: us.kid1car.white1ite
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Themes
-Version: 1.0-Beta2
+Version: 1.01beta
 Architecture: iphoneos-arm
 Description: A beautifully detailed white light-mode theme for your iOS device, brought to you by kid1carus.

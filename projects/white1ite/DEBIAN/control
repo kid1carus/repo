@@ -1,6 +1,6 @@
 Author: kid1carus <d3sign@kid1car.us>
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
-Name: white1ite
+Name: White1ite
 Package: us.kid1car.white1ite
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Themes

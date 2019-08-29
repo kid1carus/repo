@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.iskeuomorphic_3.0-beta_iphoneos-arm.deb
-Size: 5873462
-MD5sum: e022a6d5b9eda9531652d453ad27b056
-SHA1: 07937d6cec52166bcb6d2b98da545ab621181c04
-SHA256: 18fb1686573b16870efa4e7501e67326ba588250177b31ce4c0a75c4102921f7
+Size: 5873244
+MD5sum: 119ec9987c903696564a4fe921da1b45
+SHA1: 83de222efd1f4954a790ac9aee948496484b1988
+SHA256: 8e862c727259cbec03d86377269eeef9373c330570d56a20aa1de0a4f10d551d
 Section: Themes
 Homepage: https://kid1car.us/repo
 Description: A skeuomorphic theme with beautiful photo-realistic icons.
@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.six4twelve_2.0-beta_iphoneos-arm.deb
-Size: 15025422
-MD5sum: 8635803b6fe7a8b8eef5ae2d5924a1cf
-SHA1: 85b56d98b6e179c51a61876d87ee9342bef3a208
-SHA256: b1e30f3508910ad9b8c304040125afd8263c545269f65559f94c7c0e7ed9fe1d
+Size: 15025372
+MD5sum: 92c67db084456892501e31d3134bad95
+SHA1: 4306a1e2f7cba78760076da9c41507bded08efe5
+SHA256: 6f9c62eee0838cfcb827748ec93e726eba71e877ab68803edb3d7aa43519b3d0
 Section: Themes
 Homepage: http://kid1car.us/repo/themes
 Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.0-Beta_iphoneos-arm.deb
-Size: 1235988
-MD5sum: 0eff26ab54b9c86b337de621abff62e3
-SHA1: d64ecfcb7ec2a8556cabc266c14af61db50f69fd
-SHA256: ca1f208a34e2f329e09f6378334bc470ab99f58e936e784f0cb5181b71c4751f
+Size: 1235928
+MD5sum: 6d377d31934e95e11956efedf4deff90
+SHA1: b6d9dc0afe5e2f701cbb5084644a9462445936ec
+SHA256: bfc710b7a2fc188a653011f9d0bd0989fc1529b4f50a9d7c7dfbc8cc3a650f2c
 Section: Themes
 Description: A semi-transparent theme providing  a window into your iOS device.
 Author: kid1carus <d3sign@kid1car.us>
@@ -53,12 +53,13 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_1.2_iphoneos-arm.deb
-Size: 38793564
-MD5sum: 8742be67720d920591c53edb208f4b1f
-SHA1: 70e0398015432613276f0bcd8bbd22b15aed105c
-SHA256: 12bf84c6efb69c58ebcd33641c2bf0360dfcb23ef616bebf95ec02f33e7c0698
+Size: 38984792
+MD5sum: 0d324947ce9e19d27002431a576b2429
+SHA1: 40f4b601ed4a1c824e38f94b74171ecfaa6e9836
+SHA256: 8edd082284dc04ae8ba980d25b66ed5e3fdb430ac891f87138abc6fbf3b73d89
 Section: Themes
 Description: A beautiful painstakingly detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <d3sign@kid1car.us>
+Icon: file:///icon.png
 Name: White1ite
 

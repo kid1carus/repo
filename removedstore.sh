@@ -1,2 +1,2 @@
 #!/bin/bash
-find projects -type f -name 'DS.Store' -delete
+find projects -type f -name '.DS_Store' -delete

@@ -55,6 +55,10 @@
 	<key>CalendarIconDayStyle</key>
 	<string>padding: 0px 0px 0px 0px; color:#fff5f5; font-size: 8px; 
 	text-shadow: #8e1f1f 0px -1px 4px</string>
+	<key>DockMode</key>
+	<integer>0</integer>
+	<key>IB-MaskIcons</key>
+	<true/>
 	<key>PackageName</key>
 	<string>White1ite</string>
 	<key>ThemeType</key>

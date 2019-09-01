@@ -1,9 +1,9 @@
-Author: kid1carus <d3sign@kid1car.us>
+Author: kid1carus <ios.dev@kid1car.us>
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Name: unnamed
 Package: us.kid1car.unnamed
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Themes
-Version: 1.0.1-Beta
+Version: 1.0-Beta
 Architecture: iphoneos-arm
-Description: A "semi-transparent" theme allowing you to see through the icons to your homescreen's wallpaper.
+Description: A "semi-transparent" theme providing a "window" into your iOS device.

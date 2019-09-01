@@ -58,7 +58,7 @@
 	<key>DockMode</key>
 	<integer>0</integer>
 	<key>IB-MaskIcons</key>
-	<true/>
+	<false/>
 	<key>PackageName</key>
 	<string>White1ite</string>
 	<key>ThemeType</key>

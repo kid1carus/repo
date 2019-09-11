@@ -5,9 +5,9 @@ Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.six4twelve_3.0_iphoneos-arm.deb
 Size: 15025440
-MD5sum: 683fe7992e28c1b72342b8f987c238d4
-SHA1: 8f07092456791adaf67179e62dd62a35c34f79c2
-SHA256: 370b37b1325e7d5a13603b7853e0b27435f48cda1c9112eb849b57c81f78430d
+MD5sum: 9dff4d6b82c3996c1cdc3684e563689d
+SHA1: 3de7eb127a05056987c75e2f85664c28f7bd19a1
+SHA256: 5e5422f223c3ef1d29c24a2856655d28fccb06ed7be38318fa6a9e0a97ed5f8a
 Section: Themes
 Homepage: http://kid1car.us
 Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
@@ -22,9 +22,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.1-Beta_iphoneos-arm.deb
 Size: 7044538
-MD5sum: dbd1434c2bf0db32d7715e05b9aa71ef
-SHA1: 42743ae9dfcf02a539f80781de7cf86dce1d8fa5
-SHA256: 680e835192fa8eac4e6f40b2df5f4e2910780d8599dc108ed3d111313c6cb122
+MD5sum: ad0e800b6d82b29d7ebfb18f431ac660
+SHA1: c7f1fa5a60aad7b80c9885fca06aa20a2f6e1085
+SHA256: f966843ede546442fcd1b6ad40a44ca025d2d9ba385f4ef1294a8c2e1f581b9b
 Section: Themes
 Description: A "semi-transparent" theme providing a "window" into your iOS device.
 Author: kid1carus <ios.dev@kid1car.us>
@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_2.1a_iphoneos-arm.deb
-Size: 23352124
-MD5sum: cbded6d2fdd933cc3fb19bcc14ab4995
-SHA1: 4828aa6440929fc0dc91b20e149623212e5d0dac
-SHA256: 8a8d352f2c26f56e967a71f07d68fe9085e481538162b0acb5c6655e88b275d5
+Size: 23352912
+MD5sum: bbe3ff1be1c0e56e18583cce9a15d17d
+SHA1: 439aa0550d496bfbd44e0003a623a43bd1222cd3
+SHA256: 37095c9a939d8a14f034d57d1c9e6a1387a845fc79859750bd5f453b8fd9c5f0
 Section: Themes
 Description: A beautiful painstakingly detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <d3sign@kid1car.us>

@@ -5,9 +5,9 @@ Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.six4twelve_3.0_iphoneos-arm.deb
 Size: 15025440
-MD5sum: d89778c32044512c5430275cdb8cb8af
-SHA1: 14a72d1f73b2b1784c99533fe4d1b217089b9059
-SHA256: 8550540333f8b85cd01c9bb562c49721795c06fb0e9b707ecace31fbb8d7905a
+MD5sum: 0b006a27f8348b3e06ecdc58d6f325b6
+SHA1: 4cf81023712d6ccb466d7cfdb5ed1ce98475fbe6
+SHA256: e4be2e930b9c088aaeda179b3387e725a7c5acd9dca6b1fc3987bacb0443e54d
 Section: Themes
 Homepage: http://kid1car.us
 Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
@@ -22,24 +22,24 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.1-Beta_iphoneos-arm.deb
 Size: 7044538
-MD5sum: 17b19e2070e6494361c903c36e924ccd
-SHA1: 871797d6e29a155b81fd51a25f3e53c773a9e856
-SHA256: 4a19177d8444d7a342c5ef9e9f7e9e13cdc38ff5066e4ea11f06c27ce25429f9
+MD5sum: b73d3dc5dca9768eddf216c28d49153f
+SHA1: fd3e0f536d3745bd26bb895e28ccaabfba8bb062
+SHA256: efb9879e08506c4059cf430ea808ec7509b13ab88146e77342790cc719f8ee51
 Section: Themes
 Description: A "semi-transparent" theme providing a "window" into your iOS device.
 Author: kid1carus <ios.dev@kid1car.us>
 Name: unnamed
 
 Package: us.kid1car.white1ite
-Version: 3.0
+Version: 3.1
 Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/us.kid1car.white1ite_3.0_iphoneos-arm.deb
-Size: 28988356
-MD5sum: c9d5b4785b0853eeb266f66c51a529dd
-SHA1: aa6b6ff57f1f28682a8c29f3f94242b4b05a2f7b
-SHA256: 5469ff2a64c6bfb8ff1a5fca74d77818002e96a97d4390654c8ee9bdd1b9cc7a
+Filename: ./debs/us.kid1car.white1ite_3.1_iphoneos-arm.deb
+Size: 29356328
+MD5sum: 77933fbe2f1aab450824fd5356b222d1
+SHA1: 9c6eca04c3c4d1ef2964c6ff0a0be347c34e23bb
+SHA256: 2abd74b91ab066d279e30ec856efac51fe675eeef71057ee068fd4c91495a773
 Section: Themes
 Description: A beautiful painstakingly detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <d3sign@kid1car.us>

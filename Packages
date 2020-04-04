@@ -5,13 +5,28 @@ Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.realweather_1.0_iphoneos-arm.deb
 Size: 4960640
-MD5sum: 9ca324313f8c1d82898a5010091a3bd2
-SHA1: be9a7d9eb03e309134fb11f1cdc205c63581849a
-SHA256: 710add7e96db048529e96544ad620e1b8565dbde6515c25920d48449e0e04004
+MD5sum: 6d2ea14b15f62b4f0b730ac67dbf1b61
+SHA1: 7cc2626827e1ee16505c0d4dd0f2e3d77f33493e
+SHA256: 6e89cbf26d49049cee71a5b9d69590f8d4633da1d5e54abd62348ecb535e9701
 Section: Themes
 Description: An animated, photorealistic weather icon to enhance the look of your iOS device.  Designed and brought to you by kid1carus d3sign.
 Author: kid1carus <kid1carus.1mages@gmail.com>
 Name: Real Weather
+
+Package: us.kid1car.realweathericon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
+Filename: ./debs/us.kid1car.realweathericon_1.0_iphoneos-arm.deb
+Size: 521160
+MD5sum: 18cd413561b3e6a1469f6413fe7a52ba
+SHA1: d93a647e730b324ef4e77d8a075c65c8c41d272e
+SHA256: 8f9037ac81d31ae18b4b5ed0e86edfb87404a3255b3b227e21b531f3bc595e33
+Section: Themes
+Description: Animated photorealistic weather icon for your iOS device.
+Author: kid1carus <kid1carus.1mages@gmail.com>
+Icon: file:///data/var/mobile/Library/Fingal/RealWeatherIcon.theme/preview@2x.png
+Name: Real Weather Icon
 
 Package: us.kid1car.six4twelve
 Version: 3.0
@@ -20,9 +35,9 @@ Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.six4twelve_3.0_iphoneos-arm.deb
 Size: 15025440
-MD5sum: 380bc0849e4288c18dbb3f2ee5044b25
-SHA1: 11270752ce49af11317cb94c7ea7ebab8d852c1e
-SHA256: 45dd8b4c93faac45d3c9336e2cf7bb2b120d37acd2e0b26df9b4f1f409864ba7
+MD5sum: 1455cb2b53483debc6fd541c52f869da
+SHA1: d5105b2c5a9f9c2badcefbe664fb2a18301b6fc5
+SHA256: dc0fdc765a05fdeccc7722d7a26d0ebb40a0a7d59a9a2ec093d91a31064c9401
 Section: Themes
 Homepage: http://kid1car.us
 Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
@@ -37,9 +52,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.1-Beta_iphoneos-arm.deb
 Size: 7044538
-MD5sum: d7763978bd0c68f7a25117236e440d3d
-SHA1: e8ea0ee354330fbd9a135d7b8f5e87095bde20e9
-SHA256: 452a2be3c40bb8fa519b3fab40c1c9744a32628186381cf9502aa8e4a99e7fc4
+MD5sum: 5be183a7185dc7261d6d1a7f37072f5f
+SHA1: 191e908e5001deb9a2e1e7bb8e4828c7ee97d3dd
+SHA256: abcbcbd377d3898703341650e1af0067ed15bc83f4e81528d5827352912d0757
 Section: Themes
 Description: A "semi-transparent" theme providing a "window" into your iOS device.
 Author: kid1carus <ios.dev@kid1car.us>
@@ -52,9 +67,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_3.4_iphoneos-arm.deb
 Size: 29800502
-MD5sum: 0397162c05f68e58326e226a0853241c
-SHA1: 46be9c672c36452410bc8af26c3cb0e5e33c6d62
-SHA256: dd77112159bf77631e2402de309082cdd9e746f0fdee661c788bd4890551d242
+MD5sum: da5f79fb8148dd50f2fb23c2f22b027d
+SHA1: 6af00b09e990dd2bc399a4106b523c59b5040609
+SHA256: 2d1e59973392c8ff2f2a34100795c1e861b685cae973a49cafcdf02e92286858
 Section: Themes
 Description: A beautiful painstakingly detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <d3sign@kid1car.us>

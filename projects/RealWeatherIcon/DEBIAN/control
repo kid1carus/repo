@@ -1,0 +1,9 @@
+Package: us.kid1car.realweathericon
+Name: Real Weather Icon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated photorealistic weather icon for your iOS device.
+Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
+Author: kid1carus <kid1carus.1mages@gmail.com>
+Section: Themes
+Icon: file:///data/var/mobile/Library/Fingal/RealWeatherIcon.theme/preview@2x.png

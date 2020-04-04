@@ -1,0 +1,9 @@
+Author: kid1carus <kid1carus.1mages@gmail.com>
+Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
+Name: Real Weather
+Package: us.kid1car.realweather
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Themes
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An animated, photorealistic weather icon to enhance the look of your iOS device.  Designed and brought to you by kid1carus d3sign.

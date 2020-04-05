@@ -1,0 +1,12 @@
+Author: kid1carus <ios.dev@kid1car.us>
+Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
+Name: iSkeuomorphic
+Package: us.kid1car.iskeuomorphic
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Themes
+Version: 3.0-beta
+Architecture: iphoneos-arm
+Description: A skeuomorphic theme with beautiful photo-realistic icons.
+Depiction:
+Homepage: https://kid1car.us/repo
+dev: kid1carus

@@ -1,3 +1,20 @@
+Package: us.kid1car.iskeuomorphic
+Version: 3.0-beta
+Architecture: iphoneos-arm
+Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/us.kid1car.iskeuomorphic_3.0-beta_iphoneos-arm.deb
+Size: 5873458
+MD5sum: e5971df855663a709992d5b3cb327d9c
+SHA1: adb360180d7d8720e4a9e798715a31fc23a0436a
+SHA256: b8bb02b2c75b4874046297c9c2874994e540f61205411e12c12d674d6a55c271
+Section: Themes
+Homepage: https://kid1car.us/repo
+Description: A skeuomorphic theme with beautiful photo-realistic icons.
+Author: kid1carus <ios.dev@kid1car.us>
+Dev: kid1carus
+Name: iSkeuomorphic
+
 Package: us.kid1car.realweather
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5,9 +22,9 @@ Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.realweather_1.0_iphoneos-arm.deb
 Size: 4960640
-MD5sum: 4449bfab763879c96765d479c4a9bcd0
-SHA1: 3cf0850cabf9f2505d4b28305e68da19782b2b2e
-SHA256: dbed5eb84f7b46fd9864476cfac03c16431f8637c273e55db0391a0b8e1dc1f0
+MD5sum: 240a9ec2d2c452b23e2c3244eeda940b
+SHA1: d7dcf4c03cac69b531c708d8edde031c5d161be2
+SHA256: aca07f976ea49959ebf8491d50a37437b3f9b09ef7becdc504f98c8ed532144f
 Section: Themes
 Description: An animated, photorealistic weather icon to enhance the look of your iOS device.  Designed and brought to you by kid1carus d3sign.
 Author: kid1carus <kid1carus.1mages@gmail.com>
@@ -19,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
 Filename: ./debs/us.kid1car.realweathericon_1.0_iphoneos-arm.deb
 Size: 521136
-MD5sum: c6c94ac579fe07d12c44c0e38e5fb3fd
-SHA1: 967f8f688e403f2da74ddfe54a934e3240a00ccb
-SHA256: 63c93323e49544e38b49f654362f6f07e3053f53df3815ad0d24d8a47762b412
+MD5sum: 98afaa1e5369f7fb4f37762ca430b4bb
+SHA1: 1c08fbfcc1965ca010d0b2dfa3a57f45aa85f834
+SHA256: c72c5964c569f78cce9acef2e4009e2069ee81fbc2f6d5a0e2f469e0566a9708
 Section: Themes
 Description: Animated photorealistic weather icon for your iOS device.
 Author: kid1carus <kid1carus.1mages@gmail.com>
@@ -35,9 +52,9 @@ Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.six4twelve_3.0_iphoneos-arm.deb
 Size: 15025440
-MD5sum: 8c62ab56b34843550cf3fbd29efd11ac
-SHA1: 4d68c8b7316ce8f185d5fe0f84c49403e4316fe3
-SHA256: b9cded2f69894b1cde0e08237763d87368fc4385df99a74224c0524986530597
+MD5sum: 00b254ecb24e4f35ba0a52738f847fc5
+SHA1: 63c14e1955ddeae4906edc5e722511054046f7d0
+SHA256: 4afdc26c2e59ef0b0a580056f20f35f03c3ecafdf7d0a685945287248be0762f
 Section: Themes
 Homepage: http://kid1car.us
 Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
@@ -52,9 +69,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.1-Beta_iphoneos-arm.deb
 Size: 7044538
-MD5sum: f02a6e7542edb34bcade3b7c9d4d3677
-SHA1: 304a2abd34e34969203abf39ab7bc8a488fd74e8
-SHA256: 08674cb907edbc46452e892d9f38a31395d9239a0ffed2190521994f4d7dedcd
+MD5sum: 98e542e459808b7651c9362bc725921c
+SHA1: a6d29f30f41372bc050725be07148447b834ba94
+SHA256: 59a8c1ad8559417ec6f61fd7985f886fafbe253ea25bba5cfce1d492665d9b7a
 Section: Themes
 Description: A "semi-transparent" theme providing a "window" into your iOS device.
 Author: kid1carus <ios.dev@kid1car.us>
@@ -67,9 +84,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_3.4_iphoneos-arm.deb
 Size: 29800502
-MD5sum: a006db11bd3235017e2262efcac7a7f5
-SHA1: 428af9d3b888af01bc581bf1dafa3786b28238d2
-SHA256: 650a696c581cc79dd47853d24044fc0b487e083d2a02dcbb69cfa0654b901a16
+MD5sum: 6c326a3c416f7c33ae3c2d467d1c527a
+SHA1: 046c296387d964b0b07df26d4c717702f8268dc6
+SHA256: e0b9a7e7181ac83f318e6d1808c4c60e939f6eb1f04c3cf74c3cd38cbdb0a131
 Section: Themes
 Description: A beautiful painstakingly detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <d3sign@kid1car.us>

@@ -1,0 +1,8 @@
+Package: us.kid1car.m1rroredblu13
+Name: m1rrored blu 13
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A custom status bar theme where the "Apple blue" wifi and signal bars mirror each other.
+Author: kid1carus <kid1carus@mail.com>
+Maintainer: Terry OCheskey <kid1carus.1mages@gmail.com>
+Section: Themes

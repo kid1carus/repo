@@ -5,3 +5,4 @@ dpkg-deb -bZgzip projects/six4twelve debs
 dpkg-deb -bZgzip projects/RealWeather debs
 dpkg-deb -bZgzip projects/RealWeatherIcon debs
 dpkg-deb -bZgzip projects/iSkeuomorphic debs
+dpkg-deb -bZgzip projects/m1rroredblu13 debs

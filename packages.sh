@@ -7,3 +7,4 @@ dpkg-deb -bZgzip projects/RealWeatherIcon debs
 dpkg-deb -bZgzip projects/iSkeuomorphic debs
 dpkg-deb -bZgzip projects/m1rroredblu13 debs
 dpkg-deb -bZgzip projects/deBOSSedxiii debs
+dpkg-deb -bZgzip projects/emBOSSedxiii debs

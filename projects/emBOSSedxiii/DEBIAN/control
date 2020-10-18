@@ -1,9 +1,0 @@
-Package: us.kid1car.embossedxiii
-Name: emBOSSed xiii
-Version: 1.0
-Section: Themes
-Architecture: appletvos-arm64
-Author: kid1carus
-Maintainer: kid1carus.1mages@gmail.com
-Description: Icon theme for your AppleTV 4K of embossed colorful icons.
-Icon: file:///Library/Themes/deBOSSed xiii.theme/Icon.png

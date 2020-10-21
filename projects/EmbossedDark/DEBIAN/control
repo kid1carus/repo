@@ -1,13 +1,9 @@
-Author: kid1carus <kid1carus@mail.com>
-Maintainer: Terry OCheskey (kid1carus) <kid1carus.1mages@gmail.com>
-Name: Embossed Dark
-<<<<<<< HEAD
-=======
 Package: us.kid1car.embosseddark
-Depends: firmware (>= 11.0), mobilesubstrate
-Section: Themes
->>>>>>> 9be7cc15481e849652e14e3581ca062c079a6246
+Name: Embossed Dark
 Version: 1.2
 Architecture: iphoneos-arm
 Description: A beautiful painstakingly detailed dark mode theme with awesome embossed icons for your iOS device, brought to you by kid1carus.
+Author: kid1carus
+Maintainer: Terry OCheskey
+Section: Themes
 Icon: file:///Library/Themes/Embossed Dark.theme/icon.png

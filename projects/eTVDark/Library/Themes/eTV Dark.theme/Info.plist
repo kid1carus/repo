@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LabelSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>HelveticaNeue-Thin</string>
+		<key>FontSize</key>
+		<real>31</real>
+		<key>HideLabels</key>
+		<false/>
+	</dict>
+	<key>PackageName</key>
+	<string>eTV Dark</string>
+	<key>ShadowSettings</key>
+	<dict>
+		<key>ShadowColor</key>
+		<string>#00b7ff</string>
+		<key>ShadowHorizontalOffset</key>
+		<integer>1</integer>
+		<key>ShadowOpacity</key>
+		<real>0.40000000000000002</real>
+		<key>ShadowRadius</key>
+		<real>5</real>
+		<key>ShadowVerticalOffset</key>
+		<real>6</real>
+	</dict>
+</dict>
+</plist>

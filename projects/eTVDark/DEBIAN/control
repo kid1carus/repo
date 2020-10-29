@@ -1,9 +1,0 @@
-Package: us.kid1car.etvdark
-Name: eTV Dark
-Version: 1.0
-Section: Themes
-Architecture: tvOS-arm
-Author: kid1carus
-Maintainer: kid1carus.1mages@gmail.com
-Description: Bring your AppleTV over to the dark side with eTV Dark.  If you have Embossed Dark on your iOS device you'll want this theme on your AppleTV.  An extension of Embossed Dark for iOS this theme for your AppleTV 4K consisting of highly detailed embossed (raised) icons.
-Icon: file:///Library/Themes/eTV Dark.theme/Icon.png

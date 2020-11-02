@@ -1,0 +1,9 @@
+Package: us.kid1car.ioswinterdark
+Name: iOS Winter Dark
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A beautiful painstakingly detailed 3D dark side to the iOS Winter theme experience! Designed and  brought to you and your mobile device by kid1carus.
+Author: kid1carus
+Maintainer: Terry OCheskey
+Section: Themes
+Icon: file:///Library/Themes/iOS Winter Dark/icon.png

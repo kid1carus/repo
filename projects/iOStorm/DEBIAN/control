@@ -1,9 +1,0 @@
-Package: us.kid1car.iostorm
-Name: iOStorm
-Version: 1.1
-Architecture: iphoneos-arm
-Description: A beautiful painstakingly detailed 3D dark and light theme experiance combined! Designed and  brought to you and your mobile device by kid1carus.
-Author: kid1carus
-Maintainer: Terry OCheskey
-Section: Themes
-Icon: file:///Library/Themes/iOStorm.theme/icon.png

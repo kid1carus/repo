@@ -1,9 +1,9 @@
 Package: us.kid1car.ioswinter
 Name: iOS Winter
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm
 Description: A beautiful painstakingly detailed 3D dark and light theme experiance combined! Designed and  brought to you and your mobile device by kid1carus.
 Author: kid1carus
 Maintainer: Terry OCheskey
 Section: Themes
-Icon: file:///Library/Themes/iOS Winter/icon.png
+Icon: file:///Library/Themes/iOS Winter/themeicon.png

@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey
 Filename: ./debs/us.kid1car.embosseddark_1.7_iphoneos-arm.deb
 Size: 18441472
-MD5sum: c55d2d3cb41b610c643ceedab8462cad
-SHA1: 327b0436aa2de349ac77838b891e6bf9a1607ca0
-SHA256: e58de20a69ce19b79a8765286209d8e17e8a0b9f95aa8aee16166be868b0c40d
+MD5sum: 87c89a9af4a456f9102d257f35550eec
+SHA1: 4ccbd6da9ccf2cb4857b2e3a108d2ff386e4347d
+SHA256: 941ef021fc597ff9979682672a4061618f5df4a480a25b98fdddffa7b648f6c9
 Section: Themes
 Description: A beautiful painstakingly detailed dark mode theme with awesome embossed icons for your iOS device, brought to you by kid1carus.
 Author: kid1carus
@@ -19,9 +19,9 @@ Architecture: tvOS-arm
 Maintainer: kid1carus.1mages@gmail.com
 Filename: ./debs/us.kid1car.etvdark_1.0_tvOS-arm.deb
 Size: 6561288
-MD5sum: cf0d842f4f511e3f184b4e3eb85e05c4
-SHA1: 0c7b0446eb96681b856c5c853fc8ed3c866a7bfb
-SHA256: 0d1cc3598bcae1901152ac29d39ce7cc745bafe0dd42e0aece576a90b57e3756
+MD5sum: 291249badfc7571fe618373a3c6657ee
+SHA1: acae5b562d4f1be74b4e8ad66cefc313675ecf01
+SHA256: eee3321dc0fa3a9d529fbb607262e04a50b4f9e62c2028a333a71811809e8ae7
 Section: Themes
 Description: Bring your AppleTV over to the dark side with eTV Dark.  If you have Embossed Dark on your iOS device you'll want this theme on your AppleTV.  An extension of Embossed Dark for iOS this theme for your AppleTV 4K consisting of highly detailed embossed (raised) icons.
 Author: kid1carus
@@ -29,34 +29,19 @@ Icon: file:///Library/Themes/eTV Dark.theme/Icon.png
 Name: eTV Dark
 
 Package: us.kid1car.ioswinter
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Terry OCheskey
-Filename: ./debs/us.kid1car.ioswinter_1.2_iphoneos-arm.deb
-Size: 4028796
-MD5sum: bfc62be9d4da294da88e6a9cb7403d44
-SHA1: 5b2c9db81050b66012d32659b67c8ce3229c1d5c
-SHA256: a8046faf3076dfed3dd1d9349c845d282b4f7eb1cfb19ab34c41db22ab0a9653
+Filename: ./debs/us.kid1car.ioswinter_1.4_iphoneos-arm.deb
+Size: 3799094
+MD5sum: 3e0033ee116d8f997b753072520caa9e
+SHA1: 14d61fa183b812075db5930d9ced57a28836fc83
+SHA256: 5540fa08342f59a59f24086e022d2a5b32da5b9464d00f5c9bdb34ee55c87ce4
 Section: Themes
 Description: A beautiful painstakingly detailed 3D dark and light theme experiance combined! Designed and  brought to you and your mobile device by kid1carus.
 Author: kid1carus
-Icon: file:///Library/Themes/iOS Winter/icon.png
+Icon: file:///Library/Themes/iOS Winter/themeicon.png
 Name: iOS Winter
-
-Package: us.kid1car.ioswinterdark
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Terry OCheskey
-Filename: ./debs/us.kid1car.ioswinterdark_1.0_iphoneos-arm.deb
-Size: 1079012
-MD5sum: 069e9a6daabc496b0d98c9bd818cac59
-SHA1: ab7cec5e8825f2a70d934a611e33fdae181ecb83
-SHA256: 90d53a5e9a01aea21cc86fe7e951d76b7f3420f192f64f094422b992541031a0
-Section: Themes
-Description: A beautiful painstakingly detailed 3D dark side to the iOS Winter theme experience! Designed and  brought to you and your mobile device by kid1carus.
-Author: kid1carus
-Icon: file:///Library/Themes/iOS Winter Dark/icon.png
-Name: iOS Winter Dark
 
 Package: us.kid1car.iskeuomorphic
 Version: 3.0-beta
@@ -65,9 +50,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.iskeuomorphic_3.0-beta_iphoneos-arm.deb
 Size: 5873930
-MD5sum: c36bb4ba42789c39cff62706dcc06db9
-SHA1: 9c61c1a94eadefa64e17c2ce8f50d66eb14634fa
-SHA256: 130c35705366cf24f1835e1922934b9927d0c5d7b012b995bff0db4e6a69041c
+MD5sum: 5a10e9fb4febc9be6783ab56f78a2d2c
+SHA1: df24f5d32f5b7862fac91cfab4370d4f0e770591
+SHA256: 5cdcd074169dd42a00317e03101f4ec822a5341250cf9298b8a5fda7eee3e80c
 Section: Themes
 Homepage: https://kid1car.us/repo
 Description: A skeuomorphic theme with beautiful photo-realistic icons.
@@ -81,9 +66,9 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey <kid1carus.1mages@gmail.com>
 Filename: ./debs/us.kid1car.m1rroredblu13_1.0_iphoneos-arm.deb
 Size: 87288
-MD5sum: 2891efb39476568be0b64d0ff52bf1af
-SHA1: 8d332199684cf62b32f89392f97c7b8ae9c929ba
-SHA256: 5b909f68951973ce36a71a25f89359399a8243f466dd8a79279aea50f00b8d07
+MD5sum: 4e11c3ea53c9850d81505855cc68fae5
+SHA1: 9e966b703385061c5e85ce034f9c391ef60644dc
+SHA256: 951c54d6d4ebc847baab9bbbdc22fc738d6cf18ed77802a5472fdb0c7a4f12d7
 Section: Themes
 Description: A custom status bar theme where the "Apple blue" wifi and signal bars mirror each other.
 Author: kid1carus <kid1carus@mail.com>
@@ -96,9 +81,9 @@ Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.realweather_1.0_iphoneos-arm.deb
 Size: 4960612
-MD5sum: e88fb518a4e44648b4a94cdbc7c9320c
-SHA1: 0adf467778426ba2c99c91bd20af2c03d9540638
-SHA256: 5850126072ed7cfc3b89cc7a160fd4c0ccb128ab91691e6b18f8571b65e4db4a
+MD5sum: 5f93ca501391d65426534666b5be7961
+SHA1: d5820128f0adb76ef609b45c9e83b9d0671a8ade
+SHA256: 50ccae0a024cbb9075a3a829401685d5f4570e11d16c79c053758587b23c7eab
 Section: Themes
 Description: An animated, photorealistic weather icon to enhance the look of your iOS device.  Designed and brought to you by kid1carus d3sign.
 Author: kid1carus <kid1carus.1mages@gmail.com>
@@ -110,9 +95,9 @@ Architecture: iphoneos-arm
 Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
 Filename: ./debs/us.kid1car.realweathericon_1.0_iphoneos-arm.deb
 Size: 521142
-MD5sum: 23387185c0ded22b8e35587be1e9a0ea
-SHA1: 034fa0d4ff5e1e48627dea8d15b8a2ac5cc46db7
-SHA256: 380db42b5d2a217197fea45dfda050198fda783bc581f62f4c80ae8f5318ddea
+MD5sum: dbef644057e6ab6bcd188e7a1a56d885
+SHA1: e74f125b11593d11f50e04710a5f15261e8a3f48
+SHA256: da4f99a823d24f3c412affaa3829ec952b956485fa28801f1a259e5563a5e4c3
 Section: Themes
 Description: Animated photorealistic weather icon for your iOS device.
 Author: kid1carus <kid1carus.1mages@gmail.com>
@@ -126,9 +111,9 @@ Maintainer: Terry OCheskey (kid1carus) <iOS.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.six4twelve_3.0_iphoneos-arm.deb
 Size: 15025986
-MD5sum: 152ad400b18c21592157123b53f7a187
-SHA1: d7284b514d55d5c0dc6c8a09553fb29f047f03ef
-SHA256: 5cc337a10750d20b58d1c8cfff55419acf4a67cb373bd38cf7966e2267745b06
+MD5sum: 37f2edb894e53a25ed99e91eb5d37615
+SHA1: 2db34fe950433d87015538d8a501111e35fd1b31
+SHA256: f5fd67d853324179d60c5933293d95abaa8c57662b562d35c876c20a401842f8
 Section: Themes
 Homepage: http://kid1car.us
 Description: A throwback to the classic iOS we all love. Plus a few upgrades for iOS 12!
@@ -143,9 +128,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/us.kid1car.unnamed_1.1-Beta_iphoneos-arm.deb
 Size: 7044806
-MD5sum: 55365fe4dc56bb7d441e9ade78a2e546
-SHA1: 2045531b73381418f289a91f27d8550b700f8549
-SHA256: 5b8ddbf471260e80b2a83444faa517bb39452a127faed0282019515539a410eb
+MD5sum: add98cb5cdf84f0fda1acfc0b4681898
+SHA1: c13a8240eb65d2bfe348535ef09b0e67f1874ae0
+SHA256: 771e1dac1f0177e157e2e9d3dcb8c8527f8346b52f2a806e3fc70cce7dffefc2
 Section: Themes
 Description: A "semi-transparent" theme providing a "window" into your iOS device.
 Author: kid1carus <ios.dev@kid1car.us>
@@ -158,9 +143,9 @@ Maintainer: Terry OCheskey (kid1carus) <ios.dev@kid1car.us>
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/us.kid1car.white1ite_3.4_iphoneos-arm.deb
 Size: 29799884
-MD5sum: 56e7cc065df711baee285911ecfcd4f1
-SHA1: 82e5ea786845fafa1e2ba3a8e87c5d2eb47b0bb0
-SHA256: f2ba681f24f83120a2ac666e53842e7591686bf44eaef3fef1c075834b65d57e
+MD5sum: 634662ecfe212c09cf1ea1f6ac7aef82
+SHA1: 7306d1b117f3fbfa001bab27c2ca64ac4a7e8f7e
+SHA256: 727bd5056fab278ecbaaa411f249ce54b1907c6c9b0793fb4bf977b8b36a730e
 Section: Themes
 Description: A beautiful painstakingly detailed white light-mode theme for your iOS device, brought to you by kid1carus.
 Author: kid1carus <d3sign@kid1car.us>

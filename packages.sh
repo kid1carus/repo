@@ -9,3 +9,4 @@ dpkg-deb -bZgzip projects/m1rroredblu13 debs
 dpkg-deb -bZgzip projects/EmbossedDark debs
 dpkg-deb -bZgzip projects/iOSWinter debs
 dpkg-deb -bZgzip projects/eTVDark debs
+dpkg-deb -bZgzip projects/iOSDarkWinter debs

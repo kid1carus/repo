@@ -10,3 +10,4 @@ dpkg-deb -bZgzip projects/EmbossedDark debs
 dpkg-deb -bZgzip projects/iOSWinter debs
 dpkg-deb -bZgzip projects/eTVDark debs
 dpkg-deb -bZgzip projects/iOSDarkWinter debs
+dpkg-deb -bZgzip projects/iOS14Blueprint debs

@@ -1,0 +1,9 @@
+Package: us.kid1car.joy
+Name: Joy To The World
+Version: 1.0
+Architecture: iphoneos-arm
+Description: We could all use a bit (or a lot) of joy right about now! A joyous and cheerful theme for the holidays. Bring a smile to the face of anyone who see's your iOS device this holiday season.
+Author: kid1carus
+Maintainer: Terry OCheskey
+Section: Themes
+Icon: file:///Library/Themes/Joy To The World.theme/themeicon.png

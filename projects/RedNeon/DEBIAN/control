@@ -1,0 +1,9 @@
+Package: us.kid1car.redneon
+Name: Red Neon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome dark theme of icons glowing with red neon gas.
+Author: kid1carus
+Maintainer: Terry OCheskey
+Section: Themes
+Icon: file:///Library/Themes/Red Neon.theme/themeicon.png

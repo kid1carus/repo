@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BadgeSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>Helvetica Bold</string>
+		<key>FontSize</key>
+		<real>16</real>
+		<key>HeightChange</key>
+		<real>0.0</real>
+		<key>TextXoffset</key>
+		<real>2</real>
+		<key>TextYoffset</key>
+		<real>-2</real>
+		<key>WidthChange</key>
+		<real>4</real>
+	</dict>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>38</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>3</integer>
+		<key>ShadowColor</key>
+		<string>#b4b4b4</string>
+		<key>ShadowXoffset</key>
+		<real>0.0</real>
+		<key>ShadowYoffset</key>
+		<real>-2</real>
+		<key>TextColor</key>
+		<string>#2e2e2e</string>
+		<key>TextYoffset</key>
+		<integer>0</integer>
+	</dict>
+	<key>CalendarIconDateStyle</key>
+	<string>padding: 6px 2px; color: #000000; font-size: 36px; 
+	text-shadow: #b4b4b4 0px -1px 3px</string>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>8</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>4</integer>
+		<key>ShadowColor</key>
+		<string>#8e1f1f</string>
+		<key>ShadowXoffset</key>
+		<real>0.0</real>
+		<key>ShadowYOffset</key>
+		<integer>-4</integer>
+		<key>TextColor</key>
+		<string>#fefefe</string>
+	</dict>
+	<key>CalendarIconDayStyle</key>
+	<string>padding: 0px 0px 0px 0px; color:#000000; font-size: 8px; 
+	text-shadow: #8e1f1f 0px -1px 4px</string>
+	<key>DockMode</key>
+	<integer>0</integer>
+	<key>IB-MaskIcons</key>
+	<false/>
+	<key>PackageName</key>
+	<string>Festival</string>
+	<key>ThemeType</key>
+	<string>Icons</string>
+</dict>
+</plist>

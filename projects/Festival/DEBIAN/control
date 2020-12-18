@@ -1,0 +1,9 @@
+Package: us.kid1car.festival
+Name: Festival
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Lets have a bit of joy this holiday season.  Help celebrate the season with the Festival of Lights theme on your iOS Device.  100+ Icons and HD wallpapers make up this beautiful theme.  
+Author: kid1carus
+Maintainer: Terry OCheskey
+Section: Themes
+Icon: file:///Library/Themes/Festival.theme/themeicon.png

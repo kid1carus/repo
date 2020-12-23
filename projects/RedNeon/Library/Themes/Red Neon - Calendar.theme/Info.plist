@@ -17,31 +17,14 @@
 		<key>WidthChange</key>
 		<real>4</real>
 	</dict>
-	<key>CalendarIconDateSettings</key>
-	<dict>
-		<key>FontSize</key>
-		<integer>24</integer>
-		<key>ShadowBlurRadius</key>
-		<integer>2</integer>
-		<key>ShadowColor</key>
-		<string>#cecece</string>
-		<key>ShadowXoffset</key>
-		<real>0.0</real>
-		<key>ShadowYoffset</key>
-		<real>1</real>
-		<key>TextColor</key>
-		<string>#ffffff</string>
-		<key>TextYoffset</key>
-		<real>10</real>
-	</dict>
 	<key>CalendarIconDaySettings</key>
-	<string>
+	<string>color: #35cbdc; opacity: 0.9; font-weight: bold; font-size: 24px; position: absolute; top: 11px; left: 0px;
 
 	 opacity: 1;
 
 	 font-size 7px;
 
-	 color: #000;
+	 color: #35cbdc;
 
 	</string>
 	<key>DockMode</key>
@@ -64,7 +47,7 @@
 		<real>3</real>
 	</dict>
 	<key>PackageName</key>
-	<string>iOS 14 Blueprint</string>
+	<string>Blue Neon</string>
 	<key>ThemeType</key>
 	<string>Icons</string>
 	<key>customclockicon</key>

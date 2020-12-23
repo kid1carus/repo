@@ -1,0 +1,9 @@
+Package: us.kid1car.iosneon
+Name: iOS Neon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: There's something about iOS Neon that's both calming and deeply haunting...
+Author: kid1carus
+Maintainer: Terry OCheskey
+Section: Themes
+Icon: file:///Library/Themes/iOS Neon.theme/themeicon.png

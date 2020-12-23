@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BadgeSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<real>13</real>
+		<key>HeightChange</key>
+		<real>0.0</real>
+		<key>TextColor</key>
+		<string>#ffffff</string>
+		<key>TextXoffset</key>
+		<real>4</real>
+		<key>TextYoffset</key>
+		<real>-2</real>
+		<key>WidthChange</key>
+		<real>4</real>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<string>color: #35cbdc; opacity: 0.9; font-weight: bold; font-size: 24px; position: absolute; top: 11px; left: 0px;
+
+	 opacity: 1;
+
+	 font-size 7px;
+
+	 color: #35cbdc;
+
+	</string>
+	<key>DockMode</key>
+	<integer>0</integer>
+	<key>IB-MaskIcons</key>
+	<false/>
+	<key>IconLabelSettings</key>
+	<dict>
+		<key>HeightChange</key>
+		<real>0.0</real>
+		<key>ShadowBlurRadius</key>
+		<real>1</real>
+		<key>ShadowColor</key>
+		<string>#000000</string>
+		<key>ShadowXoffset</key>
+		<real>1</real>
+		<key>ShadowYoffset</key>
+		<real>2</real>
+		<key>WidthChange</key>
+		<real>3</real>
+	</dict>
+	<key>PackageName</key>
+	<string>iOS Neon</string>
+	<key>ThemeType</key>
+	<string>Icons</string>
+	<key>customclockicon</key>
+	<dict>
+		<key>hours</key>
+		<string>#696969</string>
+		<key>minutes</key>
+		<string>#696969</string>
+		<key>redDot</key>
+		<string>#ffffff</string>
+		<key>seconds</key>
+		<string>#fff549</string>
+	</dict>
+</dict>
+</plist>
